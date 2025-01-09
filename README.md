@@ -24,4 +24,4 @@ An Entity-Relationship Diagram (ERD) is provided to visualize the relationships 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bookstore-database.git
+   git clone https://github.com/mohamed-osamaaa/Book_Store.git
